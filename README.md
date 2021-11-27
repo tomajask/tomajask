@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Thomas
+
+- 📺 Beginner Youtuber
+- 💻 Selfhosting & Opensource Enthusiast
+- ☁️ Daily Software & Cloud Engineer
+- 🚴🏼‍♂️ Amateur Triathlete
+- 🧊 Swimming & Ice baths Practitioner
+- 🌿 Intrigued Biohacker
+- ☕️ Coffee Lover
+
+Check out my Youtube channel & blog at https://links.tjay.dev
 
 <!--
 **tomajask/tomajask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
